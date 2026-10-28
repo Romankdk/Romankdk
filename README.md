@@ -12,6 +12,7 @@ Cybersecurity student at **CUNY John Jay College** (B.S. Computer Science & Info
 
 | Project | What it does |
 |---|---|
+| [**secure-share**](https://github.com/Romankdk/secure-share) | End-to-end encrypted, self-destructing file sharing — AES-256-GCM in the browser, key kept in the URL fragment, server stores only ciphertext |
 | [**logwatch**](https://github.com/Romankdk/logwatch) | Log-based intrusion detector — flags brute-force logins, break-ins, web attacks and port scans in SSH, web server and firewall logs |
 | [**port-scanner**](https://github.com/Romankdk/port-scanner) | Network security scanner — port scanning, service identification, TLS checks, change tracking and HTML reports |
 | [**phishing-email-analyzer**](https://github.com/Romankdk/phishing-email-analyzer) | Scores emails for phishing risk: spoofed senders, lookalike domains, suspicious URLs, social-engineering language |
@@ -20,7 +21,7 @@ Cybersecurity student at **CUNY John Jay College** (B.S. Computer Science & Info
 ## 🧰 Skills & tools
 
 **Security:** log analysis · threat detection · incident response basics · phishing analysis · vulnerability scanning · GRC / risk assessment  
-**Tools:** Linux · Wireshark · Nmap · VirtualBox · Git  
+**Tools:** Flask · Web Crypto API · Linux · Wireshark · Nmap · VirtualBox · Git  
 **Languages:** Python · Bash · HTML/CSS
 
 ## 📫 Connect
