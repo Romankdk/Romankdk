@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Roman 👋
 
-<!--
-**Romankdk/Romankdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student at **CUNY John Jay College** (B.S. Computer Science & Information Security, Dec 2026), aiming for an **entry-level SOC Analyst** role. I like building small, readable security tools in Python and breaking things in my home lab to learn how to detect them.
 
-Here are some ideas to get you started:
+- 🎓 Graduating December 2026
+- 🛡️ CompTIA Security+ · Google Cybersecurity Certificate · Cisco Intro to Cybersecurity
+- 🏛️ GRC Intern — NYC Department of Social Services
+- 🔧 Background in IT support / technician work
+- 📍 Queens, New York
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 Featured projects
+
+| Project | What it does |
+|---|---|
+| [**logwatch**](https://github.com/Romankdk/logwatch) | Log-based intrusion detector — flags brute-force logins, break-ins, web attacks and port scans in SSH, web server and firewall logs |
+| [**port-scanner**](https://github.com/Romankdk/port-scanner) | Network security scanner — port scanning, service identification, TLS checks, change tracking and HTML reports |
+| [**phishing-email-analyzer**](https://github.com/Romankdk/phishing-email-analyzer) | Scores emails for phishing risk: spoofed senders, lookalike domains, suspicious URLs, social-engineering language |
+| [**home-soc-lab**](https://github.com/Romankdk/home-soc-lab) | Self-hosted SOC lab on Ubuntu + VirtualBox for Linux hardening, networking and security monitoring |
+
+## 🧰 Skills & tools
+
+**Security:** log analysis · threat detection · incident response basics · phishing analysis · vulnerability scanning · GRC / risk assessment  
+**Tools:** Linux · Wireshark · Nmap · VirtualBox · Git  
+**Languages:** Python · Bash · HTML/CSS
+
+## 📫 Connect
+
+🌐 Portfolio: [romankdk.github.io](https://romankdk.github.io/)
